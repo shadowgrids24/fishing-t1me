@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fishing T1me</string>
+
+    <string name="title_app">FISHING TIME</string>
+    <string name="subtitle_app">ICE LAKE CASTAWAY</string>
+    <string name="loading">LOADING THE LAKE...</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="level_select">LEVEL SELECT</string>
+    <string name="collection">COLLECTION</string>
+    <string name="progress">PROGRESS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="start_level">START LEVEL</string>
+    <string name="drop">DROP</string>
+    <string name="jerk">JERK</string>
+    <string name="resume">RESUME</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="menu_hint">TAP TO DROP · HIT A RIPPLE FOR x2</string>
+    <string name="game_hint">TAP THE LAKE TO DROP · TAP AGAIN TO JERK THE LINE</string>
+
+    <string name="stat_best_weight">BEST WEIGHT</string>
+    <string name="stat_species">SPECIES</string>
+    <string name="stat_weight">WEIGHT</string>
+    <string name="stat_catches">CATCHES</string>
+    <string name="stat_best_streak">BEST STREAK</string>
+    <string name="stat_best_trip">BEST SINGLE TRIP</string>
+    <string name="stat_species_found">SPECIES FOUND</string>
+    <string name="stat_rare_catches">RARE CATCHES</string>
+
+    <string name="grams_value">%1$s g</string>
+    <string name="species_ratio">%1$d / %2$d</string>
+    <string name="keepnet_readout">%1$s / %2$s g</string>
+    <string name="streak_pill">STREAK %1$d</string>
+    <string name="plus_grams">+%1$s g</string>
+    <string name="multiplier_label">x%1$s</string>
+    <string name="lines_state">%1$d OF %2$d LINES LEFT</string>
+
+    <string name="result_win">KEEPNET FULL</string>
+    <string name="result_loss">LINE SNAPPED</string>
+    <string name="result_spot">SPOT %1$d · %2$s</string>
+    <string name="result_weight">%1$s g OF %2$s g</string>
+    <string name="result_empty">THE HOLE STAYED QUIET - NOTHING IN THE NET</string>
+    <string name="next_spot_open">NEXT SPOT OPEN</string>
+    <string name="new_badge">NEW</string>
+
+    <string name="rarity_common">COMMON</string>
+    <string name="rarity_uncommon">UNCOMMON</string>
+    <string name="rarity_rare">RARE</string>
+
+    <string name="lane_shallow">SHALLOW</string>
+    <string name="lane_mid">MID</string>
+    <string name="lane_deep">DEEP</string>
+
+    <string name="levels_title">FISHING SPOTS</string>
+    <string name="levels_unlocked">UNLOCKED %1$d / %2$d</string>
+    <string name="levels_locked_hint">CLEAR SPOT %1$d TO OPEN</string>
+    <string name="levels_target">TARGET %1$s g</string>
+    <string name="levels_depth">%1$d m</string>
+    <string name="levels_footer">NEW SPOTS OPEN AS YOU FILL THE KEEPNET</string>
+    <string name="levels_best">BEST %1$s g</string>
+    <string name="state_locked">LOCKED</string>
+    <string name="state_unlocked">UNLOCKED</string>
+
+    <string name="collection_title">SPECIES COLLECTION</string>
+    <string name="collection_percent">COLLECTION %1$d%%</string>
+    <string name="collection_empty">NOTHING IN THE NET YET - DROP A HOOK TO START THE LIST</string>
+    <string name="collection_locked_name">\? \? \?</string>
+    <string name="collection_lane_hint">FOUND IN THE %1$s LANE</string>
+    <string name="collection_heaviest">HEAVIEST %1$s g</string>
+    <string name="collection_count">CAUGHT %1$d</string>
+
+    <string name="progress_title">PROGRESS</string>
+    <string name="progress_total_weight">TOTAL WEIGHT</string>
+    <string name="progress_trips">ACROSS %1$d TRIPS</string>
+    <string name="progress_empty">PLAY A TRIP TO START YOUR RECORD</string>
+    <string name="progress_spot_locked">- LOCKED -</string>
+    <string name="progress_spots">SPOT BREAKDOWN</string>
+    <string name="progress_rarity">RARITY SPLIT</string>
+
+    <string name="settings_title">SETTINGS</string>
+    <string name="setting_aim_assist">AIM ASSIST</string>
+    <string name="setting_aim_assist_desc">DRAWS THE DASHED DROP LINE. OFF SCORES x1.12</string>
+    <string name="setting_hook_speed">HOOK SPEED</string>
+    <string name="setting_hook_speed_desc">SWIFT SWEEPS FASTER AND SCORES x1.15</string>
+    <string name="setting_ripple_markers">RIPPLE MARKERS</string>
+    <string name="setting_ripple_markers_desc">PRE-FLASH BEFORE A RIPPLE OPENS. OFF PAYS x2.4</string>
+    <string name="setting_high_contrast">HIGH CONTRAST ICE</string>
+    <string name="setting_high_contrast_desc">BRIGHTER FISH SHADOWS AND LANE BANDS</string>
+    <string name="setting_reset">RESET PROGRESS</string>
+    <string name="setting_reset_desc">WIPES SPOTS, COLLECTION AND LIFETIME STATS</string>
+
+    <string name="option_guide_line">GUIDE LINE</string>
+    <string name="option_off">OFF</string>
+    <string name="option_on">ON</string>
+    <string name="option_calm">CALM</string>
+    <string name="option_swift">SWIFT</string>
+
+    <string name="reset_title">CLEAR THE RECORD?</string>
+    <string name="reset_body">SPOTS, COLLECTION AND LIFETIME STATS WILL BE WIPED</string>
+    <string name="pause_title">LINE ON HOLD</string>
+    <string name="pause_body">THE LAKE WAITS. NOTHING DRAINS WHILE YOU HOLD THE LINE</string>
+
+    <string name="cd_logo">ICE LAKE EMBLEM</string>
+    <string name="cd_home">HOME</string>
+    <string name="cd_pause">PAUSE</string>
+
+    <string name="spot_shore_crack">SHORE CRACK</string>
+    <string name="spot_reed_hollow">REED HOLLOW</string>
+    <string name="spot_blue_hole">BLUE HOLE</string>
+    <string name="spot_pressure_ridge">PRESSURE RIDGE</string>
+    <string name="spot_sunken_pine">SUNKEN PINE</string>
+    <string name="spot_black_depth">BLACK DEPTH</string>
+
+    <string name="spot_hint_shore_crack">PERCH · ROACH</string>
+    <string name="spot_hint_reed_hollow">ROACH · PIKE</string>
+    <string name="spot_hint_blue_hole">PERCH · PIKE · CHAR</string>
+    <string name="spot_hint_pressure_ridge">PIKE · CHAR · BURBOT</string>
+    <string name="spot_hint_sunken_pine">CHAR · BURBOT</string>
+    <string name="spot_hint_black_depth">PIKE · CHAR · BURBOT</string>
+
+    <string name="species_ice_perch">ICE PERCH</string>
+    <string name="species_ruby_perch">RUBY PERCH</string>
+    <string name="species_silver_roach">SILVER ROACH</string>
+    <string name="species_glass_roach">GLASS ROACH</string>
+    <string name="species_lake_pike">LAKE PIKE</string>
+    <string name="species_frost_pike">FROST PIKE</string>
+    <string name="species_arctic_char">ARCTIC CHAR</string>
+    <string name="species_aurora_char">AURORA CHAR</string>
+    <string name="species_stone_burbot">STONE BURBOT</string>
+    <string name="species_deep_burbot">DEEP BURBOT</string>
+</resources>
